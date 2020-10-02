@@ -1,0 +1,46 @@
+body {
+	text-align: center;
+}
+.line {
+	height: 1vw;
+	background: black;
+	width: 15vw;
+	margin: 2vw auto;
+	
+}
+.text {
+	font-size: 3vw;
+	font-family: 'Chewy', cursive;
+}
+#apps {
+	height: 60vw;
+	background: linear-gradient(#22ECF2 30%, #22B6F2 70%);
+	margin-top: -2vw;
+	left: 0;
+	right: 0;
+	padding-top: 1vw
+}
+img {
+	height: 35vw;
+	margin-bottom:5vw;
+	transition: .2s;
+}
+img:hover {
+	transform: scale(0.9);
+	
+}
+#games {
+	height: 60vw;
+	background: linear-gradient(#FCE904 30%, #F2A622 70%);
+	margin-top:2vw;
+	left: 0;
+	right: 0;
+	padding-top: 1vw;
+}
+#Chatbot {
+	height: 60vw;
+	background: linear-gradient(#04D92B 30%, #0AA526 70%);
+	margin-top:2vw;
+	left: 0;
+	right: 0;
+	padding-top: 1vw;
